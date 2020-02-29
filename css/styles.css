@@ -1,6 +1,6 @@
 @font-face {
     font-family: "myFirstFont";
-    src: url("C:/Windows/Fonts/mf-sippin-on-sunshine.regular.ttf")
+    src: url("../fonts/mf-sippin-on-sunshine.regular.ttf")
 }
 .container {
     position: relative;
