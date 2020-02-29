@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "myFirstFont";
+    src: url("C:/Windows/Fonts/mf-sippin-on-sunshine.regular.ttf")
+}
+.container {
+    position: relative;
+    text-align: center;
+}
+
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-align: center;
+    background: #fdcf00;
+}
+
+.hey {
+    margin-top: 10em;
+}
+
+img {
+    width: 400px;
+}
+
+p {
+    font-family: 'myFirstFont';
+    font-size: 170px;
+    margin: 0;
+
+}
+
+#tiger {
+    color: #1045d6;
+    margin-top: -40px;
+}
+
+#thomas {
+    color: #3ead0a;
+    margin-top: -40px;
+}
+
+#tv {
+    font-size: 150px;
+    width: 280px;
+    height: 250px;
+    border-radius: 50%;
+    padding-top: 37px;
+    color: #ffffff;
+    display: none;
+    text-align: center;
+    margin: auto;
+  
+}
+
+#tv span {
+    font-size: 45px;
+    color: #000;
+    display: block;
+    margin-top: -25px;
+}
